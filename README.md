@@ -138,7 +138,7 @@ python calc.py tests.txt
 ```bash
 python calc.py --alt tests.txt
 ```
-## 🧪 Casos de Prueba
+## Casos de Prueba
 
 El archivo `tests.txt` contiene ejemplos que demuestran las diferencias:
 
