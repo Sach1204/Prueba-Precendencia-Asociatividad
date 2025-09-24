@@ -159,10 +159,12 @@ sin(90)    # Funciones trigonométricas en grados
 - `2+3-4` = 1 (asociatividad izquierda: (2+3)-4)
 - `10-4-3` = 3 (asociatividad izquierda: (10-4)-3)
 
+<img width="1278" height="186" alt="image" src="https://github.com/user-attachments/assets/64f182fb-d7bb-4413-a05e-e779a363b968" />
+
 #### Gramática Alternativa (precedencia modificada):
 - `2+3*4` = 20 (suma antes que multiplicación)
 - `2+3-4` = 5 (asociatividad derecha: 2+(3-4))
 - `10-4-3` = 9 (asociatividad derecha: 10-(4-3))
 
+<img width="1278" height="186" alt="image" src="https://github.com/user-attachments/assets/05293559-a73b-408b-8204-0a00fcc5697a" />
 
-Este proyecto demuestra efectivamente cómo pequeños cambios en la gramática pueden producir resultados completamente diferentes, siendo una excelente herramienta didáctica para entender los fundamentos de la construcción de intérpretes.
