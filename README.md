@@ -1,4 +1,4 @@
-# Prueba-Precendencia-Asociatividad
+# Prueba-Precedencia-Asociatividad
 # Calculadora ANTLR4 - Precedencia y Asociatividad
 
 Este proyecto implementa una calculadora usando **ANTLR4** para demostrar conceptos de **precedencia** y **asociatividad** de operadores matemáticos. Incluye dos gramáticas diferentes para mostrar cómo estos conceptos afectan la evaluación de expresiones.
