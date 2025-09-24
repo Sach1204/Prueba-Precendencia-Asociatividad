@@ -14,7 +14,7 @@ proyecto/
 ├── tests.txt             # Casos de prueba
 ```
 
-## 🔧 Componentes del Proyecto
+## Componentes del Proyecto
 
 ### 1. `calc.py` - Programa Principal
 
